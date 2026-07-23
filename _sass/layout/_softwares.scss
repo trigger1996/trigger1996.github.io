@@ -13,6 +13,16 @@
   font-size: 1.15em;
 }
 
+.software-item h2 a {
+  color: var(--global-text-color);
+  text-decoration: none;
+}
+
+.software-item h2 a:hover {
+  color: #1f5fbf;
+  text-decoration: underline;
+}
+
 .software-url {
   margin: 0.2rem 0 0.4rem;
   word-break: break-word;

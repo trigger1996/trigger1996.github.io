@@ -12,9 +12,9 @@ redirect_from:
 Unmanned Systems Ability Diagram
 ======
 
-<figure>
-  <iframe class="pdf-figure" src="{{ base_path }}/images/hardware/Drone_usage.pdf#toolbar=0&navpanes=0&scrollbar=0&view=FitH" title="Unmanned systems ability diagram"></iframe>
-  <figcaption>Overview of my abilities for designing, tuning, and operating unmanned systems.</figcaption>
+<figure class="hardware-pdf-figure">
+  <iframe class="pdf-figure" src="{{ base_path }}/images/hardware/Drone_usage.pdf#toolbar=0&navpanes=0&scrollbar=0&view=FitH"></iframe>
+  <figcaption>Overview of my designed unmannd platform.</figcaption>
 </figure>
 
 Hardware Gallery
@@ -37,14 +37,3 @@ Hardware Gallery
     <figcaption>My support during the 19th national college students technology competition, photoed with the team and my supervisor, Prof. Xiao Yu.</figcaption>
   </figure>
 </div>
-
-
-{% if site.hardwares.size > 0 %}
-  {% for post in site.hardwares reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% else %}
-Hardware projects will be updated separately.
-
-Current focus areas include wheeled robots, unmanned aerial vehicles, embedded systems, and experimental robotic platforms.
-{% endif %}

@@ -1,7 +1,7 @@
 ---
 title: "MDPPlanner"
 collection: softwares
-permalink: /softwares/mdpplanner
+permalink: /softwares/MDPPlanner
 date: 2026-07-23
 excerpt: "Planning software for Markov decision process based synthesis and decision-making problems."
 website: "https://github.com/trigger1996/MDPPlanner"

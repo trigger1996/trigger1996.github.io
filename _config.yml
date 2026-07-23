@@ -233,9 +233,6 @@ collections:
   softwares:
     output: true
     permalink: /:collection/:path/
-  hardwares:
-    output: true
-    permalink: /:collection/:path/
   services:
     output: true
     permalink: /:collection/:path/
@@ -292,14 +289,6 @@ defaults:
   - scope:
       path: ""
       type: softwares
-    values:
-      layout: single
-      author_profile: true
-      share: true
-  # _hardwares
-  - scope:
-      path: ""
-      type: hardwares
     values:
       layout: single
       author_profile: true

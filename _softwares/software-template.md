@@ -1,7 +1,7 @@
 ---
 title: "Software Title"
 collection: softwares
-permalink: /softwares/software-title
+permalink: /softwares/software_name
 date: 2026-07-23
 excerpt: "One-sentence summary of what this software does."
 website: "https://example.com"

@@ -13,10 +13,7 @@ redirect_from:
   <div class="software-list">
     {% for post in site.softwares %}
       <article class="software-item">
-        <h2>{{ post.title }}</h2>
-        {% if post.website %}
-          <p class="software-url">Website: <a href="{{ post.website }}">{{ post.website }}</a></p>
-        {% endif %}
+        <h2><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></h2>
         {% if post.excerpt %}
           <p>{{ post.excerpt }}</p>
         {% endif %}

@@ -1,7 +1,7 @@
 ---
 title: "amigobot_LTL"
 collection: softwares
-permalink: /softwares/amigobot-ltl
+permalink: /softwares/amigobot_LTL
 date: 2026-07-23
 excerpt: "LTL-based planning and experimental software for the AmigoBot robotic platform."
 website: "https://github.com/trigger1996/amigobot_LTL"

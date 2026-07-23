@@ -73,7 +73,9 @@ Abilities for Unmanned Systems
 
 My overall abilities for designing, tuning, and operating an unmanned system are listed as follows.
 
-[Ability diagram]({{ base_path }}/images/hardware/Drone_usage.pdf)
+<figure class="hardware-pdf-figure">
+  <iframe class="pdf-figure" src="{{ base_path }}/images/hardware/Drone_usage.pdf#toolbar=0&navpanes=0&scrollbar=0&view=FitH"></iframe>
+</figure>
 
 * Design and development of robotic systems (e.g., wheeled robots and unmanned aerial vehicles), encompassing mechanical and electronic hardware as well as mid-level embedded systems.
 * Implementation of control, observation, and planning frameworks derived from theoretical results in formal synthesis and discrete-event systems, validated through physical experiments on robotic platforms.
