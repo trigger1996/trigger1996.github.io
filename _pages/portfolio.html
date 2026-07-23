@@ -7,8 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
+Portfolio is the original template's general project or work showcase section. This site now separates project work into Softwares and Hardwares, so portfolio is kept as a non-navigation page for compatibility.
+
+{% comment %}
+Template starter content hidden after CV-based rewrite.
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
+
+{% endcomment %}
 

@@ -1,61 +1,42 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Yiwei Zheng",
+    "email": "ywzheng1201@stu.xmu.edu.cn",
+    "phone": "+86-136-0955-9421",
+    "website": "https://trigger1996.github.io",
+    "summary": "Ph.D. candidate in Control Science and Engineering at Xiamen University. Research interests include multi-agent path and mission planning using formal methods, safety and opacity of discrete-event systems, and robotic control and navigation in unknown environments.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Xiamen",
+      "countryCode": "CN",
+      "region": "Fujian"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "trigger1996",
+        "url": "https://github.com/trigger1996"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
+      "institution": "Xiamen University",
+      "area": "Control Science and Engineering",
+      "studyType": "Ph.D.",
+      "startDate": "2018",
+      "endDate": "present",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Huaqiao University",
+      "area": "Opto-Electronic Science and Engineering",
+      "studyType": "B.S.",
+      "startDate": "2014",
       "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
       "gpa": null,
       "courses": []
     }
@@ -66,87 +47,70 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Enforcement of opacity for interval weighted discrete-event system by supervisory control",
+      "publisher": "IEEE Transactions on Automatic Control",
+      "releaseDate": "2025",
+      "website": "https://doi.org/10.1109/TAC.2025.3611993",
+      "summary": "Y. Zheng, A. Lai, W. Lan, X. Yu, and R. Su. DOI: 10.1109/TAC.2025.3611993."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Early-awareness collision avoidance in optimal multi-agent path planning with temporal logic specifications",
+      "publisher": "IEEE/CAA Journal of Automatica Sinica",
+      "releaseDate": "2023-05",
+      "website": "https://www.youtube.com/playlist?list=PLWlDMqOM9D2QprwUcfTXYbPa6IsiOVBEZ",
+      "summary": "Y. Zheng, A. Lai, X. Yu, and W. Lan. Vol. 10, no. 5, pp. 1346-1348."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Optimal synthesis for partially-observable stochastic systems under opaque temporal logic tasks",
+      "publisher": "Submitted",
+      "releaseDate": "2025",
+      "website": "https://www.youtube.com/playlist?list=PLWlDMqOM9D2Q1lAKcFA_GbEFAeicVcVh2",
+      "summary": "Y. Zheng, Y. Wang, W. Lan, and X. Yu."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Adaptive optimal output regulation of unknown linear continuous-time systems by dynamic output feedback and value iteration",
+      "publisher": "Control Engineering Practice",
+      "releaseDate": "2023-12",
+      "website": "https://github.com/trigger1996/Unknown_System_Regulation_ADP",
+      "summary": "K. Xie, Y. Zheng, X. Yu, and W. Lan. Vol. 141, article 105675."
+    },
+    {
+      "name": "Optimal dynamic output feedback control of unknown linear continuous-time system by adaptive dynamic programming",
+      "publisher": "Automatica",
+      "releaseDate": "2024-05",
+      "website": "",
+      "summary": "K. Xie, Y. Zheng, W. Lan, and X. Yu. Vol. 163, article 111601."
+    },
+    {
+      "name": "Optimal synthesis for stochastic systems with information security preservation under temporal logic constraints",
+      "publisher": "ICARCV 2024",
+      "releaseDate": "2024-12",
+      "website": "",
+      "summary": "Y. Zheng, W. Lan, and X. Yu. Dubai, UAE, pp. 918-923."
+    },
+    {
+      "name": "Optimal path planning with opacity-preserving temporal logic specifications using bipartite synthesizers",
+      "publisher": "IEEE CDC 2023",
+      "releaseDate": "2023-12",
+      "website": "",
+      "summary": "Y. Zheng, A. Lai, W. Lan, and X. Yu. Singapore, pp. 7862-7867."
+    },
+    {
+      "name": "Optimal multi-agent collision-free path planning with temporal logic constraints",
+      "publisher": "CCSICC 2021",
+      "releaseDate": "2022-11",
+      "website": "",
+      "summary": "Y. Zheng, Z. Liu, A. Lai, X. Yu, and W. Lan. Shenzhen, China, pp. 1468-1477."
+    },
+    {
+      "name": "A hybrid SLAM method for indoor micro aerial vehicles",
+      "publisher": "ICCA 2019",
+      "releaseDate": "2019-07",
+      "website": "https://www.youtube.com/playlist?list=PLWlDMqOM9D2R34O04VglkfJLh-Xs-Wbzt",
+      "summary": "Y. Zheng, Y. Xu, J. Zhang, and D. Luo. Edinburgh, Scotland, pp. 651-656."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
