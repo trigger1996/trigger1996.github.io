@@ -37,3 +37,5 @@ Hardware Gallery
     <figcaption>My support during the 19th national college students technology competition, photoed with the team and my supervisor, Prof. Xiao Yu.</figcaption>
   </figure>
 </div>
+
+Related work of my collegues and me at Xiamen University can be found [here](https://github.com/DareScanMyCode).

@@ -11,27 +11,27 @@ redirect_from:
 
 <div class="software-list">
   <article class="software-item">
-    <h2><a href="{{ base_path }}/softwares/des_common">des_common</a></h2>
-    <p>Common utilities and data structures for discrete-event-system modeling and analysis.</p>
+    <h2><a href="{{ base_path }}/softwares/detectable-nonblocking-enforcement">Detectable Nonblocking Enforcement</a></h2>
+    <p>Algorithms and case studies for enforcing detectable nonblocking in partially observed discrete-event systems.</p>
   </article>
 
   <article class="software-item">
-    <h2><a href="{{ base_path }}/softwares/MDPPlanner">MDPPlanner</a></h2>
-    <p>Planning software for Markov decision process based synthesis and decision-making problems.</p>
+    <h2><a href="{{ base_path }}/softwares/on-the-fly-deadlock-free-synthesis">On-the-Fly Deadlock-Free Synthesis</a></h2>
+    <p>On-the-fly synthesis algorithms and case studies for deadlock-free supervisors in discrete-event systems.</p>
   </article>
 
   <article class="software-item">
-    <h2><a href="{{ base_path }}/softwares/Enforcement_IWA">Enforcement_IWA</a></h2>
-    <p>Software implementation for opacity enforcement in interval weighted automata.</p>
+    <h2><a href="{{ base_path }}/softwares/ltl-opacity-mdp-planning">LTL-Based Opacity Planning for MDPs</a></h2>
+    <p>Planning software for Markov decision processes under temporal-logic tasks and LTL-based opacity constraints.</p>
   </article>
 
   <article class="software-item">
-    <h2><a href="{{ base_path }}/softwares/LOMAP-Custom">LOMAP-Custom</a></h2>
-    <p>A customized LOMAP-based toolkit for temporal-logic planning workflows.</p>
+    <h2><a href="{{ base_path }}/softwares/opacity-enforcement-iwa">Opacity Enforcement for Interval Weighted Automata</a></h2>
+    <p>Implementation of supervisory-control algorithms for enforcing opacity in interval weighted automata.</p>
   </article>
 
   <article class="software-item">
-    <h2><a href="{{ base_path }}/softwares/amigobot_LTL">amigobot_LTL</a></h2>
-    <p>LTL-based planning and experimental software for the AmigoBot robotic platform.</p>
+    <h2><a href="{{ base_path }}/softwares/early-awareness-collision-avoidance-planning">Early-Awareness Collision-Avoidance Planning</a></h2>
+    <p>Offline LTL planning software and physical AmigoBot implementation for early-awareness collision avoidance.</p>
   </article>
 </div>
