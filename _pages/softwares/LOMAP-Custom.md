@@ -1,10 +1,8 @@
 ---
+layout: single
 title: "LOMAP-Custom"
-collection: softwares
 permalink: /softwares/LOMAP-Custom
-date: 2026-07-23
-excerpt: "A customized LOMAP-based toolkit for temporal-logic planning workflows."
-website: "https://github.com/trigger1996/LOMAP-Custom"
+author_profile: true
 ---
 
 Website: [https://github.com/trigger1996/LOMAP-Custom](https://github.com/trigger1996/LOMAP-Custom)

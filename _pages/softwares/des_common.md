@@ -1,10 +1,8 @@
 ---
+layout: single
 title: "des_common"
-collection: softwares
 permalink: /softwares/des_common
-date: 2026-07-23
-excerpt: "Common utilities and data structures for discrete-event-system modeling and analysis."
-website: "https://github.com/trigger1996/des_common"
+author_profile: true
 ---
 
 Website: [https://github.com/trigger1996/des_common](https://github.com/trigger1996/des_common)

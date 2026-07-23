@@ -1,10 +1,8 @@
 ---
+layout: single
 title: "Enforcement_IWA"
-collection: softwares
 permalink: /softwares/Enforcement_IWA
-date: 2026-07-23
-excerpt: "Software implementation for opacity enforcement in interval weighted automata."
-website: "https://github.com/trigger1996/Enforcement_IWA"
+author_profile: true
 ---
 
 Website: [https://github.com/trigger1996/Enforcement_IWA](https://github.com/trigger1996/Enforcement_IWA)

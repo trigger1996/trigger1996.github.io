@@ -9,19 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
-{% if site.softwares.size > 0 %}
-  <div class="software-list">
-    {% for post in site.softwares %}
-      <article class="software-item">
-        <h2><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></h2>
-        {% if post.excerpt %}
-          <p>{{ post.excerpt }}</p>
-        {% endif %}
-      </article>
-    {% endfor %}
-  </div>
-{% else %}
-Software projects will be updated separately.
+<div class="software-list">
+  <article class="software-item">
+    <h2><a href="{{ base_path }}/softwares/des_common">des_common</a></h2>
+    <p>Common utilities and data structures for discrete-event-system modeling and analysis.</p>
+  </article>
 
-Current focus areas include planning, control, observation, and formal synthesis software for robotic and discrete-event systems.
-{% endif %}
+  <article class="software-item">
+    <h2><a href="{{ base_path }}/softwares/MDPPlanner">MDPPlanner</a></h2>
+    <p>Planning software for Markov decision process based synthesis and decision-making problems.</p>
+  </article>
+
+  <article class="software-item">
+    <h2><a href="{{ base_path }}/softwares/Enforcement_IWA">Enforcement_IWA</a></h2>
+    <p>Software implementation for opacity enforcement in interval weighted automata.</p>
+  </article>
+
+  <article class="software-item">
+    <h2><a href="{{ base_path }}/softwares/LOMAP-Custom">LOMAP-Custom</a></h2>
+    <p>A customized LOMAP-based toolkit for temporal-logic planning workflows.</p>
+  </article>
+
+  <article class="software-item">
+    <h2><a href="{{ base_path }}/softwares/amigobot_LTL">amigobot_LTL</a></h2>
+    <p>LTL-based planning and experimental software for the AmigoBot robotic platform.</p>
+  </article>
+</div>
