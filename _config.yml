@@ -23,7 +23,7 @@ repository               : "trigger1996/trigger1996.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yiwei Zheng"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher in Control Science and Engineering. Researching discrete-event systems, formal methods, and robotic planning."

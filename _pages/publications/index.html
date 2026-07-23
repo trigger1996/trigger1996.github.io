@@ -5,32 +5,73 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<div class="publication-page">
+  <h1>Publications <span class="publication-view-links">[By Category]</span></h1>
+
+  <h2>Preprints</h2>
+  <ol class="publication-list">
+    <li>
+      <span class="authors"><strong>Y. Zheng</strong>, Y. Wang, W. Lan, and X. Yu.</span>
+      <span class="paper-title">"Optimal synthesis for partially-observable stochastic systems under opaque temporal logic tasks."</span>
+      <span class="venue">submitted.</span>
+      <span class="pub-links">Video available <a href="https://www.youtube.com/playlist?list=PLWlDMqOM9D2Q1lAKcFA_GbEFAeicVcVh2">[here]</a>.</span>
+    </li>
+  </ol>
+
+  <h2>Journal Papers</h2>
+  <ol class="publication-list">
+    <li>
+      <span class="authors"><strong>Y. Zheng</strong>, A. Lai, W. Lan, X. Yu, and R. Su.</span>
+      <span class="paper-title">"Enforcement of opacity for interval weighted discrete-event system by supervisory control."</span>
+      <span class="venue"><em>IEEE Transactions on Automatic Control</em>, 2025. (Full Paper)</span>
+      <span class="pub-links"><a href="https://doi.org/10.1109/TAC.2025.3611993">[DOI]</a></span>
+    </li>
+    <li>
+      <span class="authors"><strong>Y. Zheng</strong>, A. Lai, X. Yu, and W. Lan.</span>
+      <span class="paper-title">"Early-awareness collision avoidance in optimal multi-agent path planning with temporal logic specifications."</span>
+      <span class="venue"><em>IEEE/CAA Journal of Automatica Sinica</em>, 10(5):1346-1348, 2023.</span>
+      <span class="pub-links">Video available <a href="https://www.youtube.com/playlist?list=PLWlDMqOM9D2QprwUcfTXYbPa6IsiOVBEZ">[here]</a>.</span>
+    </li>
+    <li>
+      <span class="authors">K. Xie, <strong>Y. Zheng</strong>, X. Yu, and W. Lan.</span>
+      <span class="paper-title">"Adaptive optimal output regulation of unknown linear continuous-time systems by dynamic output feedback and value iteration."</span>
+      <span class="venue"><em>Control Engineering Practice</em>, 141:105675, 2023.</span>
+      <span class="pub-links">Video available <a href="https://github.com/trigger1996/Unknown_System_Regulation_ADP">[here]</a>.</span>
+    </li>
+    <li>
+      <span class="authors">K. Xie, <strong>Y. Zheng</strong>, W. Lan, and X. Yu.</span>
+      <span class="paper-title">"Optimal dynamic output feedback control of unknown linear continuous-time system by adaptive dynamic programming."</span>
+      <span class="venue"><em>Automatica</em>, 163:111601, 2024.</span>
+    </li>
+  </ol>
+
+  <h2>Peer-Reviewed Conference Papers</h2>
+  <ol class="publication-list">
+    <li>
+      <span class="authors"><strong>Y. Zheng</strong>, W. Lan, and X. Yu.</span>
+      <span class="paper-title">"Optimal synthesis for stochastic systems with information security preservation under temporal logic constraints."</span>
+      <span class="venue">in <em>Proceedings of the 2024 18th International Conference on Control, Automation, Robotics and Vision (ICARCV)</em>, Dubai, UAE, 2024, pp. 918-923.</span>
+    </li>
+    <li>
+      <span class="authors"><strong>Y. Zheng</strong>, A. Lai, W. Lan, and X. Yu.</span>
+      <span class="paper-title">"Optimal path planning with opacity-preserving temporal logic specifications using bipartite synthesizers."</span>
+      <span class="venue">in <em>Proceedings of the 62nd IEEE Conference on Decision and Control (IEEE CDC 2023)</em>, Singapore, 2023, pp. 7862-7867.</span>
+    </li>
+    <li>
+      <span class="authors"><strong>Y. Zheng</strong>, Z. Liu, A. Lai, X. Yu, and W. Lan.</span>
+      <span class="paper-title">"Optimal multi-agent collision-free path planning with temporal logic constraints."</span>
+      <span class="venue">in <em>Proceedings of 2021 5th Chinese Conference on Swarm Intelligence and Cooperative Control (CCSICC 2021)</em>, Shenzhen, China, 2022, pp. 1468-1477.</span>
+    </li>
+    <li>
+      <span class="authors"><strong>Y. Zheng</strong>, Y. Xu, J. Zhang, and D. Luo.</span>
+      <span class="paper-title">"A hybrid SLAM method for indoor micro aerial vehicles."</span>
+      <span class="venue">in <em>2019 IEEE 15th International Conference on Control and Automation (ICCA 2019)</em>, Edinburgh, Scotland, 2019, pp. 651-656.</span>
+      <span class="pub-links">Video available <a href="https://www.youtube.com/playlist?list=PLWlDMqOM9D2R34O04VglkfJLh-Xs-Wbzt">[here]</a>.</span>
+    </li>
+  </ol>
+</div>
 
 
 

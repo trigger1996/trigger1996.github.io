@@ -12,9 +12,10 @@ redirect_from:
 Unmanned Systems Ability Diagram
 ======
 
-<object data="{{ base_path }}/images/hardware/Drone_usage.pdf" type="application/pdf" width="100%" height="720">
-  <p><a href="{{ base_path }}/images/hardware/Drone_usage.pdf">Open the unmanned systems ability diagram</a></p>
-</object>
+<figure>
+  <iframe class="pdf-figure" src="{{ base_path }}/images/hardware/Drone_usage.pdf#toolbar=0&navpanes=0&scrollbar=0&view=FitH" title="Unmanned systems ability diagram"></iframe>
+  <figcaption>Overview of my abilities for designing, tuning, and operating unmanned systems.</figcaption>
+</figure>
 
 Hardware Gallery
 ======

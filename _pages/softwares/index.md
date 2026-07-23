@@ -10,9 +10,19 @@ redirect_from:
 {% include base_path %}
 
 {% if site.softwares.size > 0 %}
-  {% for post in site.softwares reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
+  <div class="software-list">
+    {% for post in site.softwares %}
+      <article class="software-item">
+        <h2>{{ post.title }}</h2>
+        {% if post.website %}
+          <p class="software-url">Website: <a href="{{ post.website }}">{{ post.website }}</a></p>
+        {% endif %}
+        {% if post.excerpt %}
+          <p>{{ post.excerpt }}</p>
+        {% endif %}
+      </article>
+    {% endfor %}
+  </div>
 {% else %}
 Software projects will be updated separately.
 

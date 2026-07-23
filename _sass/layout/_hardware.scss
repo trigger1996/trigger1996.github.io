@@ -7,6 +7,13 @@
   height: auto;
 }
 
+.hardware-gallery .pdf-figure {
+  display: block;
+  width: 100%;
+  height: 620px;
+  border: 0;
+}
+
 .hardware-gallery .figure-row {
   display: flex;
   gap: 1rem;
@@ -21,5 +28,9 @@
 @media (max-width: 640px) {
   .hardware-gallery .figure-row {
     flex-direction: column;
+  }
+
+  .hardware-gallery .pdf-figure {
+    height: 420px;
   }
 }
