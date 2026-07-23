@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Detectable Non-blocking Supervisory Control"
-permalink: /softwares/detectable-nonblocking-enforcement
+permalink: /softwares/detectable-nonblocking
 author_profile: true
 ---
 

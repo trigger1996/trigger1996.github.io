@@ -11,7 +11,7 @@ redirect_from:
 
 <div class="software-list">
   <article class="software-item">
-    <h2><a href="{{ base_path }}/softwares/detectable-nonblocking-enforcement">Detectable Nonblocking Enforcement</a></h2>
+    <h2><a href="{{ base_path }}/softwares/detectable-nonblocking">Detectable Nonblocking Enforcement</a></h2>
     <p>Algorithms and case studies for enforcing detectable nonblocking in partially observed discrete-event systems.</p>
   </article>
 

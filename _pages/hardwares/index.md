@@ -38,4 +38,4 @@ Hardware Gallery
   </figure>
 </div>
 
-Related work of my collegues and me at Xiamen University can be found [here](https://github.com/DareScanMyCode).
+**Related work of my collegues and me at Xiamen University can be found [here](https://github.com/DareScanMyCode).**
