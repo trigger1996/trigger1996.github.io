@@ -1,0 +1,25 @@
+.hardware-gallery figure {
+  margin: 0 0 1.5em;
+}
+
+.hardware-gallery img {
+  width: 100%;
+  height: auto;
+}
+
+.hardware-gallery .figure-row {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.hardware-gallery .figure-row img {
+  flex: 1 1 0;
+  min-width: 0;
+}
+
+@media (max-width: 640px) {
+  .hardware-gallery .figure-row {
+    flex-direction: column;
+  }
+}
