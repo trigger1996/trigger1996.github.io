@@ -38,4 +38,28 @@ Hardware Gallery
   </figure>
 </div>
 
+
+Experiment Videos
+======
+
+<div class="hardware-videos">
+  <figure>
+    <iframe src="https://www.youtube.com/embed/videoseries?list=PLWlDMqOM9D2QprwUcfTXYbPa6IsiOVBEZ" title="Early-awareness collision avoidance video playlist" allowfullscreen></iframe>
+    <figcaption>Early-awareness collision avoidance in optimal multi-agent path planning with temporal logic specifications.</figcaption>
+  </figure>
+
+  <figure>
+    <iframe src="https://www.youtube.com/embed/videoseries?list=PLWlDMqOM9D2Q1lAKcFA_GbEFAeicVcVh2" title="Opaque temporal logic tasks video playlist" allowfullscreen></iframe>
+    <figcaption>Optimal synthesis for partially-observable stochastic systems under opaque temporal logic tasks.</figcaption>
+  </figure>
+
+  <figure>
+    <iframe src="https://www.youtube.com/embed/videoseries?list=PLWlDMqOM9D2R34O04VglkfJLh-Xs-Wbzt" title="Hybrid SLAM video playlist" allowfullscreen></iframe>
+    <figcaption>A hybrid SLAM method for indoor micro aerial vehicles.</figcaption>
+  </figure>
+</div>
+
+The adaptive optimal output regulation video/code materials are available [here](https://github.com/trigger1996/Unknown_System_Regulation_ADP).
+
+
 **Related work of my collegues and me at Xiamen University can be found [here](https://github.com/DareScanMyCode).**

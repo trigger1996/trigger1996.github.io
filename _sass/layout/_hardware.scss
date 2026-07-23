@@ -38,6 +38,22 @@
   min-width: 0;
 }
 
+.hardware-videos figure {
+  margin: 0 0 1.5em;
+}
+
+.hardware-videos iframe {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 0;
+}
+
+.hardware-videos figcaption {
+  display: block;
+  margin-top: 0.45rem;
+}
+
 @media (max-width: 640px) {
   .hardware-gallery .figure-row {
     flex-direction: column;
