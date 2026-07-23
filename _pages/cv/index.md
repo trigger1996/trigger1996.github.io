@@ -13,8 +13,9 @@ Contact
 ======
 
 * Yiwei Zheng
-* Ph.D. candidate, Department of Automation, Xiamen University, China
-* Email: [ywzheng1201@stu.xmu.edu.cn](mailto:ywzheng1201@stu.xmu.edu.cn)
+* Postdoctoral Researcher, School of Automation and Intelligent Sensing, Shanghai Jiao Tong University, China
+* Host adviser: Prof. Xiang Yin
+* Email: [ywzheng1201@sjtu.edu.cn](mailto:ywzheng1201@sjtu.edu.cn)
 * Tel: +86-136-0955-9421
 * Date of birth: Dec. 1, 1996
 
@@ -28,7 +29,7 @@ Research Interests
 Education
 ======
 
-* 2018-present: Ph.D., Control Science and Engineering, Xiamen University, Xiamen, China. Supervisor: Prof. Weiyao Lan and Prof. Xiao Yu.
+* 2018-2025: Ph.D., Control Science and Engineering, Xiamen University, Xiamen, China. Supervisor: Prof. Weiyao Lan and Prof. Xiao Yu.
 * 2014-2018: B.S., Opto-Electronic Science and Engineering, Huaqiao University, Quanzhou, China.
 
 Publications

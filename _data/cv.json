@@ -1,16 +1,16 @@
 {
   "basics": {
     "name": "Yiwei Zheng",
-    "email": "ywzheng1201@stu.xmu.edu.cn",
+    "email": "ywzheng1201@sjtu.edu.cn",
     "phone": "+86-136-0955-9421",
     "website": "https://trigger1996.github.io",
-    "summary": "Ph.D. candidate in Control Science and Engineering at Xiamen University. Research interests include multi-agent path and mission planning using formal methods, safety and opacity of discrete-event systems, and robotic control and navigation in unknown environments.",
+    "summary": "Postdoctoral Researcher at the School of Automation and Intelligent Sensing, Shanghai Jiao Tong University. Research interests include discrete-event systems, formal methods, robotic planning, and information-state-based properties such as safety, security, and opacity.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Xiamen",
+      "city": "Shanghai",
       "countryCode": "CN",
-      "region": "Fujian"
+      "region": "Shanghai"
     },
     "profiles": [
       {
@@ -20,14 +20,23 @@
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "institution": "Shanghai Jiao Tong University",
+      "position": "Postdoctoral Researcher",
+      "startDate": "2025-01",
+      "endDate": "present",
+      "summary": "",
+      "highlights": []
+    }
+  ],
   "education": [
     {
       "institution": "Xiamen University",
       "area": "Control Science and Engineering",
       "studyType": "Ph.D.",
       "startDate": "2018",
-      "endDate": "present",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     },

@@ -7,35 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Control Science and Engineering at Xiamen University, China, advised by Prof. Weiyao Lan and Prof. Xiao Yu.
+I am a postdoctoral researcher at the School of Automation and Intelligent Sensing, Shanghai Jiao Tong University, hosted by Prof. Xiang Yin.
 
-My research focuses on formal methods for robotic and discrete-event systems, with particular interest in multi-agent path and mission planning, safety and security, opacity, and the integration of control and navigation for robotic systems operating in unknown environments.
+I received my Ph.D. degree in Control Science and Engineering from Xiamen University, China, under the supervision of Prof. Weiyao Lan and Prof. Xiao Yu.
 
-Research Interests
-======
+My research focuses on discrete-event systems and formal methods, with particular interest in robotic planning and information-state-based properties of discrete dynamic systems, including safety, security, and opacity.
 
-* Multi-agent path and mission planning using formal methods.
-* Safety, security, and opacity of discrete-event systems.
-* Control and navigation integration for robotic systems in unknown environments.
-
-Education
-======
-
-* 2018-present: Ph.D., Control Science and Engineering, Xiamen University, Xiamen, China. Supervisor: Prof. Weiyao Lan and Prof. Xiao Yu.
-* 2014-2018: B.S., Opto-Electronic Science and Engineering, Huaqiao University, Quanzhou, China.
-
-Unmanned Systems
-======
-
-I work on the design, implementation, tuning, and operation of robotic systems, including wheeled robots and unmanned aerial vehicles. My experience spans mechanical and electronic hardware, embedded systems, control, observation, planning, and physical validation of theoretical results from formal synthesis and discrete-event systems.
-
-Selected Recognition
-======
-
-* First Prize Scholarship, Huaqiao University, 2015-2016 and 2016-2017.
-* Second Prize Scholarship, Huaqiao University, 2014-2015.
-* Third Prize, China Graduate Future Flight Vehicle Innovation Competition, 2022 and 2023.
-* Fourth Place, 62nd IEEE CDC Cooperative Aerial Robots Inspection Challenge.
 
 {% comment %}
 Template starter content hidden after CV-based rewrite.

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.6.27)  23 JUL 2026 15:40
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.6.27)  23 JUL 2026 16:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -438,10 +438,10 @@ Overfull \hbox (1.52885pt too wide) in paragraph at lines 239--243
 Missing character: There is no – ("2013) in font ptmr8t!
 Missing character: There is no – ("2013) in font ptmr8t!
 Missing character: There is no – ("2013) in font ptmr8t!
-Missing character: There is no – ("2013) in font ptmr8t!
 [1
 
 ]
+Missing character: There is no – ("2013) in font ptmr8t!
 
 LaTeX Warning: File `pics/Drone_usage.pdf' not found on input line 311.
 
@@ -502,10 +502,10 @@ Package lastpage Warning: Rerun to get the references right on input line 378.
 Here is how much of TeX's memory you used:
  12190 strings out of 469785
  197549 string characters out of 5468362
- 621788 words of memory out of 5000000
+ 620823 words of memory out of 5000000
  40998 multiletter control sequences out of 15000+600000
  647377 words of font info for 65 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 71i,11n,79p,1514b,521s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 71i,11n,79p,1514b,519s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on cv_main.xdv (2 pages, 11100 bytes).
+Output written on cv_main.xdv (2 pages, 11140 bytes).
