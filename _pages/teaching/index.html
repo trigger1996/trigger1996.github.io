@@ -7,12 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+{% if site.teaching.size > 0 %}
+  {% for post in site.teaching reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% else %}
 Teaching information will be updated separately.
-
-<!-- Template starter content hidden after CV-based rewrite.
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
--->
+{% endif %}

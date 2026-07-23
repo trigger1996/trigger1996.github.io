@@ -11,14 +11,23 @@ main:
   - title: "About"
     url: /
 
+  - title: "Biography"
+    url: /biography/
+
   - title: "Publications"
     url: /publications/
+
+  - title: "Project"
+    url: /projects/
 
   - title: "Softwares"
     url: /softwares/
 
   - title: "Hardwares"
     url: /hardwares/
-    
-  - title: "CV"
-    url: /cv/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Services"
+    url: /services/
