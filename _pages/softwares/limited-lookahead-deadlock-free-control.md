@@ -12,7 +12,7 @@ redirect_from:
 
 Website: [https://github.com/trigger1996/des_common/tree/master/limited_lookahead_deadlock_free](https://github.com/trigger1996/des_common/tree/master/limited_lookahead_deadlock_free)
 
-**Supplementary materials:** For supplementary materials, please refer to [Supplemented_material.R1.pdf](https://github.com/trigger1996/des_common/blob/master/limited_lookahead_deadlock_free/Supplemented_material.R1.pdf).
+**Supplementary material for the experimental results is [here](https://github.com/trigger1996/des_common/blob/master/limited_lookahead_deadlock_free/supplementary_material.pdf).**
 
 Brief introduction:
 
