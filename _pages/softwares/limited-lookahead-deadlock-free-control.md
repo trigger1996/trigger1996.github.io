@@ -1,8 +1,10 @@
 ---
 layout: single
 title: "Limited-Lookahead Deadlock-Free Control"
-permalink: /softwares/limited-lookahead-deadlock-free-control
+permalink: /softwares/limited-lookahead
 author_profile: true
+redirect_from:
+  - /softwares/limited-lookahead-deadlock-free-control
 ---
 
 Website: [https://github.com/trigger1996/des_common/tree/master/limited_lookahead_deadlock_free](https://github.com/trigger1996/des_common/tree/master/limited_lookahead_deadlock_free)
