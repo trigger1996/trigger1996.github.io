@@ -1,9 +1,10 @@
 ---
 layout: single
 title: "Limited-Lookahead Deadlock-Free Control"
-permalink: /softwares/LL_DeadlockFree_Ctrl
+permalink: /softwares/LL_Ctrl_DeadlockFree
 author_profile: true
 redirect_from:
+  - /softwares/LL_DeadlockFree_Ctrl
   - /softwares/limited-lookahead
   - /softwares/limited-lookahead-deadlock-free-control
 ---
