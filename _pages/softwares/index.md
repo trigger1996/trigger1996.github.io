@@ -21,7 +21,7 @@ redirect_from:
   </article>
 
   <article class="software-item">
-    <h2><a href="{{ base_path }}/softwares/LL_Ctrl_DeadlockFree">Limited-Lookahead Deadlock-Free Control</a></h2>
+    <h2><a href="{{ base_path }}/softwares/ll_ctrl_deadlockfree">Limited-Lookahead Deadlock-Free Control</a></h2>
     <p>Limited-lookahead supervisor synthesis, closed-loop verification, and case studies for deadlock-free control of partially observed discrete-event systems.</p>
   </article>
 
