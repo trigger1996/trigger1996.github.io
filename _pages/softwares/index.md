@@ -21,6 +21,11 @@ redirect_from:
   </article>
 
   <article class="software-item">
+    <h2><a href="{{ base_path }}/softwares/limited-lookahead-deadlock-free-control">Limited-Lookahead Deadlock-Free Control</a></h2>
+    <p>Limited-lookahead supervisor synthesis, closed-loop verification, and case studies for deadlock-free control of partially observed discrete-event systems.</p>
+  </article>
+
+  <article class="software-item">
     <h2><a href="{{ base_path }}/softwares/ltl-opacity-mdp-planning">LTL-Based Opacity Planning for MDPs</a></h2>
     <p>Planning software for Markov decision processes under temporal-logic tasks and LTL-based opacity constraints.</p>
   </article>
